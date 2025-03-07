@@ -1,3 +1,4 @@
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,6 +7,7 @@ body {
     color: #333;
 }
 
+/* Header Styles */
 header {
     background: #222;
     color: white;
@@ -31,6 +33,7 @@ nav ul li a {
     text-decoration: none;
 }
 
+/* Hero Section */
 .hero {
     text-align: center;
     padding: 100px;
@@ -48,6 +51,7 @@ nav ul li a {
     margin-top: 10px;
 }
 
+/* Sections */
 section {
     padding: 50px;
     text-align: center;
@@ -61,6 +65,7 @@ section {
     max-width: 800px;
 }
 
+/* Project Cards */
 .project-item {
     background: #f4f4f4;
     padding: 15px;
@@ -68,6 +73,7 @@ section {
     border-radius: 5px;
 }
 
+/* Footer */
 footer {
     text-align: center;
     padding: 20px;
